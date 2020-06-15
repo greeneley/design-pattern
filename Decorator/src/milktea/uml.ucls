@@ -12,7 +12,7 @@
   </class>  
   <interface id="2" language="java" name="milktea.IMilkTea" project="Decorator" 
     file="/Decorator/src/milktea/IMilkTea.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="500" y="76"/>    
+    <position height="-1" width="-1" x="529" y="81"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -39,7 +39,7 @@
   </class>  
   <class id="5" language="java" name="milktea.main" project="Decorator" file="/Decorator/src/milktea/main.java" 
     binary="false" corner="BOTTOM_RIGHT">    
-    <position height="97" width="113" x="140" y="116"/>    
+    <position height="-1" width="-1" x="96" y="144"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -70,7 +70,7 @@
   <association id="10">    
     <end type="SOURCE" refId="3" navigable="false">      
       <attribute id="11" name="_milktea">        
-        <position height="17" width="49" x="388" y="119"/>      
+        <position height="17" width="49" x="417" y="124"/>      
       </attribute>      
       <multiplicity id="12" minimum="0" maximum="1"/>    
     </end>    
